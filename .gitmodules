@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "eha"]
 	path = eha
 	url = https://github.com/goranbrostrom/eha
-	shallow = true
-	registered = true
 [submodule "glmmML"]
 	path = glmmML
 	url = https://github.com/cran/glmmML
-	shallow = true
-	registered = true
